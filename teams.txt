@@ -5,4 +5,5 @@ Warriors
 Heat
 Celtics
 Bulls
-
+Magic
+Hawks
